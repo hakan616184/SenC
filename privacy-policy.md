@@ -1,0 +1,32 @@
+# GİZLİLİK VE KİŞİSEL VERİLERİN KORUNMASI POLİTİKASI
+
+**Son Güncelleme Tarihi:** 11 Nisan 2026  
+**Veri Sorumlusu:** Aquaguard Teknoloji Bilgisayar Limited Şirketi (Türkiye)  
+**İletişim:** support@aquaguardwd.com  
+
+---
+
+## 1. Kapsam ve Uluslararası Uyum
+Bu Gizlilik Politikası, **SenC** ("Uygulama") kullanıcılarının kişisel verilerinin Türkiye Cumhuriyeti (6698 sayılı KVKK), Avrupa Birliği Genel Veri Koruma Tüzüğü (GDPR) ve ABD Kaliforniya Tüketici Gizliliği Kanunu (CCPA) ile Çocukların Çevrimiçi Gizliliğini Koruma Yasası (COPPA) standartlarına uygun olarak nasıl işlendiğini açıklar. Şirketimiz, verilerinizi küresel gizlilik standartlarında korumayı taahhüt eder.
+
+## 2. İşlenen Veri Kategorileri
+* **Sağladığınız Veriler:** Profil bilgileri (Kullanıcı adı, yaş, cinsiyet), uygulamaya yüklediğiniz görseller, verdiğiniz oylar (sağa/sola kaydırma) ve Direkt Mesaj (DM) içerikleri.
+* **Otomatik İşlenen Veriler:** Cihaz tanımlayıcıları, IP adresi, işletim sistemi versiyonu, hata logları ve uygulama içi etkileşim istatistikleri.
+* **Konum Verileri:** Arka planda GPS takibi kesinlikle yapılmaz. Sadece "Mekan" kategorisinde kendi rızanızla API üzerinden yer etiketi kullandığınızda işlenir.
+
+## 3. Yapay Zeka (AI) Moderasyonu ve Veri Güvenliği
+Uygulamaya yüklenen tüm Kullanıcı Tarafından Oluşturulan İçerikler (UGC), platform güvenliğini sağlamak amacıyla anlık olarak Yapay Zeka (Gemini AI) ile taranır. Bu tarama işlemi; çıplaklık, şiddet, pedofili ve ifşa (doxxing) gibi yasadışı veya kurallara aykırı içerikleri tespit etmek için yapılır. Yüklediğiniz görseller reklam profillemesi için kullanılmaz veya AI model eğitimi için üçüncü şahıslara satılmaz.
+
+## 4. Veri Saklama, Arşivleme ve Silme
+* **Aktif Akış:** Gönderiler, abonelik statünüze bağlı olarak oylama akışında kalır.
+* **Arşiv:** Süre bitiminde görseller genel akıştan çekilir ve sadece kendi profilinizde şifrelenmiş olarak saklanır.
+* **Hesabı ve Verileri Silme:** Uygulama içindeki "Hesabımı Sil" butonu aracılığıyla, tüm profilinizin, mesajlarınızın, oylarınızın ve görsellerinizin sunucularımızdan kalıcı ve geri döndürülemez şekilde silinmesini sağlayabilirsiniz.
+
+## 5. Üçüncü Taraflarla Veri Paylaşımı
+**KİŞİSEL VERİLERİNİZ HİÇBİR REKLAM VEYA VERİ ŞİRKETİNE SATILMAZ.** Verileriniz yalnızca sistemin çalışması için zorunlu olan küresel hizmet sağlayıcılarıyla (Örn: AWS/Google Cloud depolama, RevenueCat abonelik yönetimi) paylaşılır. AB veya Türkiye dışındaki veri aktarımlarında yasal koruma mekanizmaları (SCCs) uygulanır.
+
+## 6. Çocukların Gizliliği
+Uygulama, 13 yaşından (Avrupa Birliği sakinleri için 16 yaşından) küçüklerin kullanımına yönelik değildir. Bu yaş sınırının altındaki kişilerden bilerek veri toplanmaz. Tespiti halinde ilgili hesap ve veriler anında silinir.
+
+## 7. Küresel Kullanıcı Haklarınız
+Kullanıcılar; verilerine erişme, verilerini indirme, düzeltme, silme, işlemenin kısıtlanmasını talep etme ve otomatik karar alma mekanizmalarına itiraz etme hakkına sahiptir. Tüm yasal taleplerinizi *support@aquaguardwd.com* adresine iletebilirsiniz. Talepleriniz en geç 30 gün içinde yanıtlanacaktır.

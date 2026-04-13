@@ -1,35 +1,35 @@
-# KULLANIM ŞARTLARI VE HİZMET SÖZLEŞMESİ
+# TERMS OF SERVICE AND USER AGREEMENT
 
-**Son Güncelleme Tarihi:** 11 Nisan 2026  
-**Hizmet Sağlayıcı:** Aquaguard Teknoloji Bilgisayar Limited Şirketi (Türkiye)  
-**İletişim:** support@aquaguardwd.com  
+**Last Updated:** April 11, 2026  
+**Service Provider:** Aquaguard Teknoloji Bilgisayar Limited Şirketi (Turkey)  
+**Contact:** support@aquaguardwd.com  
 
 ---
 
-## 1. Sözleşmenin Kabulü ve Yaş Sınırı
-**SenC** uygulamasını kullanarak bu sözleşmeyi kabul etmiş sayılırsınız. Uygulamayı kullanabilmek için en az 13 yaşında (AB sakinleri için 16) olmanız gerekmektedir. Ücretli abonelikler için 18 yaş sınırı veya veli onayı şarttır.
+## 1. Acceptance of Terms and Age Limit
+By using **SenC**, you agree to these terms. To use the App, you must be at least 13 years old (16 in the EU). Paid subscriptions require you to be 18 or have parental consent.
 
-## 2. Kullanıcı İçeriği ve Sıfır Tolerans Politikası
-Aşağıdaki içeriklerin paylaşılması **KESİNLİKLE YASAKTIR** ve hesabın uyarısız kapatılmasına neden olur:
-* **Çıplaklık ve Pornografi:** Her türlü cinsel içerik veya aşırı çıplaklık.
-* **Çocuk İstismarı (CSAM):** Çocukları tehlikeye atan her türlü materyal (Anında yasal bildirim yapılır).
-* **Şiddet ve Vahşet:** İnsan veya hayvan istismarı, şok edici şiddet görüntüleri.
-* **Nefret Söylemi ve Taciz:** Irk, din, cinsiyet temelli saldırılar ve siber zorbalık.
-* **Yasadışı Faaliyetler:** Uyuşturucu, silah ticareti ve başkalarının kişisel verilerini ifşa etme (Doxxing).
+## 2. User-Generated Content (UGC) and Zero Tolerance Policy
+Sharing the following content is **STRICTLY PROHIBITED** and will lead to an immediate ban without warning:
+* **Nudity and Pornography:** Any sexual content or extreme nudity.
+* **Child Sexual Abuse Material (CSAM):** Anything endangering minors (Reported to law enforcement immediately).
+* **Violence and Gore:** Human or animal abuse, shocking violence.
+* **Hate Speech and Harassment:** Attacks based on race, religion, gender, and cyberbullying.
+* **Illegal Activities:** Drug/weapon trade and exposing others' private data (Doxxing).
 
-## 3. Şikayet ve Engelleme (Flag & Block)
-Kullanıcılar, uygunsuz içerikleri **"Şikayet Et"** ve rahatsız oldukları kişileri **"Engelle"** butonları ile bildirebilirler. Moderasyon ekibimiz bildirilen içerikleri 24 saat içinde inceleyip gerekli aksiyonu alır.
+## 3. Flagging and Blocking Mechanisms
+Users can instantly report inappropriate content using the **"Report"** button and block annoying users via the **"Block"** button. Our moderation team reviews reported content within 24 hours.
 
-## 4. Dijital Jüri ve Sorumluluk Reddi
-SenC, bir fikir platformudur. Kullanıcıların verdiği oylar (Al/Alma, Git/Gitme vb.) tavsiye niteliğindedir. Bu oylara dayanarak aldığınız kararların tüm yasal ve maddi sorumluluğu size aittir.
+## 4. Digital Jury and Disclaimer
+SenC is an opinion-sharing platform. User votes (Buy/Don't Buy, Go/Don't Go, etc.) are for advisory purposes only. You are solely responsible for any personal or financial decisions made based on these votes.
 
-## 5. Abonelikler ve İadeler
-* Abonelikler Apple ID veya Google Play üzerinden yönetilir.
-* Cari dönemin bitiminden 24 saat önce iptal edilmezse otomatik yenilenir.
-* Topluluk kurallarını ihlal ettiği için kapatılan hesapların abonelik ücretleri **iade edilmez.**
+## 5. Subscriptions and Refunds
+* Subscriptions are managed via Apple ID or Google Play.
+* They auto-renew unless canceled 24 hours before the end of the period.
+* Subscription fees are **non-refundable** if an account is banned for violating community rules.
 
-## 6. İçerik Lisansı
-Yüklediğiniz görsellerin telif hakkı size aittir. Ancak yükleme yaparak, bu görselleri uygulama içinde oylama akışında göstermemiz için bize dünya çapında, ücretsiz bir kullanım lisansı vermiş olursunuz.
+## 6. Content License
+You own the copyright to the images you upload. However, by uploading, you grant us a worldwide, royalty-free license to display these images within the App's voting feed.
 
-## 7. Uygulanacak Hukuk
-İşbu sözleşmeden doğan uyuşmazlıklarda Türkiye Cumhuriyeti yasaları geçerlidir ve İstanbul Mahkemeleri yetkilidir.
+## 7. Governing Law
+These terms are governed by the laws of the Republic of Turkey, and Istanbul Courts have exclusive jurisdiction.

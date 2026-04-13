@@ -1,6 +1,6 @@
 # SENC ULUSLARARASI GİZLİLİK VE KİŞİSEL VERİLERİN KORUNMASI POLİTİKASI
 
-**Son Güncelleme Tarihi:** 11 Nisan 2026  
+**Son Güncelleme Tarihi:** 12 Nisan 2026  
 **Veri Sorumlusu:** Aquaguard Teknoloji Bilgisayar Limited Şirketi (Türkiye)  
 **İletişim:** support@aquaguardwd.com  
 

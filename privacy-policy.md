@@ -1,32 +1,32 @@
-# GİZLİLİK VE KİŞİSEL VERİLERİN KORUNMASI POLİTİKASI
+# PRIVACY AND PERSONAL DATA PROTECTION POLICY
 
-**Son Güncelleme Tarihi:** 11 Nisan 2026  
-**Veri Sorumlusu:** Aquaguard Teknoloji Bilgisayar Limited Şirketi (Türkiye)  
-**İletişim:** support@aquaguardwd.com  
+**Last Updated:** April 11, 2026  
+**Data Controller:** Aquaguard Teknoloji Bilgisayar Limited Şirketi (Turkey)  
+**Contact:** support@aquaguardwd.com  
 
 ---
 
-## 1. Kapsam ve Uluslararası Uyum
-Bu Gizlilik Politikası, **SenC** ("Uygulama") kullanıcılarının kişisel verilerinin Türkiye Cumhuriyeti (6698 sayılı KVKK), Avrupa Birliği Genel Veri Koruma Tüzüğü (GDPR) ve ABD Kaliforniya Tüketici Gizliliği Kanunu (CCPA) ile Çocukların Çevrimiçi Gizliliğini Koruma Yasası (COPPA) standartlarına uygun olarak nasıl işlendiğini açıklar. Şirketimiz, verilerinizi küresel gizlilik standartlarında korumayı taahhüt eder.
+## 1. Scope and International Compliance
+This Privacy Policy explains how **SenC** ("the App") processes personal data in compliance with the Law on Protection of Personal Data (KVKK) of Turkey, the General Data Protection Regulation (GDPR) of the EU, and the California Consumer Privacy Act (CCPA) of the USA.
 
-## 2. İşlenen Veri Kategorileri
-* **Sağladığınız Veriler:** Profil bilgileri (Kullanıcı adı, yaş, cinsiyet), uygulamaya yüklediğiniz görseller, verdiğiniz oylar (sağa/sola kaydırma) ve Direkt Mesaj (DM) içerikleri.
-* **Otomatik İşlenen Veriler:** Cihaz tanımlayıcıları, IP adresi, işletim sistemi versiyonu, hata logları ve uygulama içi etkileşim istatistikleri.
-* **Konum Verileri:** Arka planda GPS takibi kesinlikle yapılmaz. Sadece "Mekan" kategorisinde kendi rızanızla API üzerinden yer etiketi kullandığınızda işlenir.
+## 2. Categories of Data Processed
+* **User-Provided Data:** Profile info (Username, age, gender), uploaded images, voting preferences (swipes), and Direct Messages (DM).
+* **Automatically Collected Data:** Device identifiers, IP address, OS version, and app interaction statistics.
+* **Location Data:** We do NOT track GPS in the background. Location is only processed if you voluntarily tag a place via API in the "Places" category.
 
-## 3. Yapay Zeka (AI) Moderasyonu ve Veri Güvenliği
-Uygulamaya yüklenen tüm Kullanıcı Tarafından Oluşturulan İçerikler (UGC), platform güvenliğini sağlamak amacıyla anlık olarak Yapay Zeka (Gemini AI) ile taranır. Bu tarama işlemi; çıplaklık, şiddet, pedofili ve ifşa (doxxing) gibi yasadışı veya kurallara aykırı içerikleri tespit etmek için yapılır. Yüklediğiniz görseller reklam profillemesi için kullanılmaz veya AI model eğitimi için üçüncü şahıslara satılmaz.
+## 3. AI Moderation and Data Security
+All User-Generated Content (UGC) is scanned in real-time by AI (Gemini AI) to detect illegal content such as nudity, violence, or doxxing. Your images are NOT sold to third parties or used for ad profiling.
 
-## 4. Veri Saklama, Arşivleme ve Silme
-* **Aktif Akış:** Gönderiler, abonelik statünüze bağlı olarak oylama akışında kalır.
-* **Arşiv:** Süre bitiminde görseller genel akıştan çekilir ve sadece kendi profilinizde şifrelenmiş olarak saklanır.
-* **Hesabı ve Verileri Silme:** Uygulama içindeki "Hesabımı Sil" butonu aracılığıyla, tüm profilinizin, mesajlarınızın, oylarınızın ve görsellerinizin sunucularımızdan kalıcı ve geri döndürülemez şekilde silinmesini sağlayabilirsiniz.
+## 4. Data Retention and Deletion
+* **Active Feed:** Posts stay in the voting feed based on your subscription tier.
+* **Archive:** After the voting period, images are moved to an encrypted private archive visible only to you.
+* **Account Deletion:** You can use the "Delete Account" button within the app to permanently and irreversibly delete all your data from our servers.
 
-## 5. Üçüncü Taraflarla Veri Paylaşımı
-**KİŞİSEL VERİLERİNİZ HİÇBİR REKLAM VEYA VERİ ŞİRKETİNE SATILMAZ.** Verileriniz yalnızca sistemin çalışması için zorunlu olan küresel hizmet sağlayıcılarıyla (Örn: AWS/Google Cloud depolama, RevenueCat abonelik yönetimi) paylaşılır. AB veya Türkiye dışındaki veri aktarımlarında yasal koruma mekanizmaları (SCCs) uygulanır.
+## 5. Third-Party Sharing
+**WE DO NOT SELL YOUR PERSONAL DATA.** Data is shared only with essential service providers (e.g., AWS/Google Cloud for storage, RevenueCat for subscriptions) under strict legal safeguards (SCCs).
 
-## 6. Çocukların Gizliliği
-Uygulama, 13 yaşından (Avrupa Birliği sakinleri için 16 yaşından) küçüklerin kullanımına yönelik değildir. Bu yaş sınırının altındaki kişilerden bilerek veri toplanmaz. Tespiti halinde ilgili hesap ve veriler anında silinir.
+## 6. Children's Privacy
+The App is not intended for children under 13 (or 16 in the EU). We do not knowingly collect data from minors. If detected, such data will be immediately deleted.
 
-## 7. Küresel Kullanıcı Haklarınız
-Kullanıcılar; verilerine erişme, verilerini indirme, düzeltme, silme, işlemenin kısıtlanmasını talep etme ve otomatik karar alma mekanizmalarına itiraz etme hakkına sahiptir. Tüm yasal taleplerinizi *support@aquaguardwd.com* adresine iletebilirsiniz. Talepleriniz en geç 30 gün içinde yanıtlanacaktır.
+## 7. Your Global Rights
+Users have the right to access, download, correct, delete, or object to the processing of their data. For all legal inquiries, contact us at *support@aquaguardwd.com*.

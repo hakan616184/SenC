@@ -309,7 +309,7 @@
                                                                                                                                                                                                    
       <div class="steps">                                   
         <div class="step">
-          <div class="step-icon ios">🍎</div>
+          <div class="step-icon ios"></div>
           <div class="step-content">                                                                                                                                                               
             <strong>Cancel on iOS</strong>
             <p>Settings → tap your name → <code>Subscriptions</code> → SenC → <code>Cancel Subscription</code></p>                                                                                 
